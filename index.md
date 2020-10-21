@@ -10,6 +10,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Group polarization
 - Allegory of the cave
 - False consensus effect
+- + AI Generated
+- 
 
 ## Reading List
 1. "John Gorenfeld, Moon the Messiah, and the Media Echo Chamber". Daily Kos. Retrieved 2017-09-24. Hosanagar, Kartik (2016-11-25). "Blame the Echo Chamber on Facebook. But Blame Yourself, Too". Wired. Retrieved 2017-09-24.
