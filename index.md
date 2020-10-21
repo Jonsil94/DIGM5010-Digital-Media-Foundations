@@ -12,6 +12,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 
+
 ## Keywords or search terms
 - Recommender system
 - Filter bubble
@@ -62,7 +63,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-# Annotated Bibliography
+## Annotated Bibliography
 
 
 
