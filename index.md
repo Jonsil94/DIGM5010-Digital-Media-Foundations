@@ -90,6 +90,14 @@ Ahmed Elgammal (Department of Computer Science, Rutgers University) describes a 
 
 Diana Walstad is a medical research technician and former technical advisor for the Aquatic Gardeners Association. The “Walstad method” has gained popularity on Youtube as a go-to method for creating nano planted aquariums. Usually, the Walstad method is as an aquarium that uses no filter, no injected CO2 and minimal water changes, no fertilizers and is self-sustaining; the fish waste fertilizes the plants and the plants purify the water. This book explains the allelopathy (chemical interactions between organisms) in an aquarium and the use of plants to purify the water in order to balance the ecosystem. It describes details regarding the chemicals present in the water like nitrates, ammonia, oxygen etc. I have been extremely fascinated with self-sustaining natural ecosystems, I have had attempted several Walstad aquariums. I think this approach to developing a successful ecosystem is quite similar to Chengs’ concept of “worlding” -  nurturing an infinite game.
 
+
+**Hassine, Tsila. “The zombification of Art History: How AI resurrects dead masters, and perpetuates historical biases.” (2019).**
+
+Similar to some of the previous readings, this criticizes what the meaning and purpose of what AI in art should be. The author’s criticism regarding the use of AI is that AI perpetuates the biases of art history. Using the Next Rembrandt project as an example. A dutch research project used AI to analyze Rembrandt’s painting style and technique and attempt to create new work. Rembrandt’s subjects painting subject matter was taken into account - the faces, gender age head direction, eyes, noses, mouths and facial proportions. According to the data led them to create a portrait of a caucasian male with the average facial proportions of the given data set. Many of these types of projects seem like a conceptual experiment more than a contribution to culture. I tend to agree with Marian, and Elgammal the points of failure of the AI seem to be more interesting than the successes, in a strange way it seems to highlight the style of the artist in the errors it generates. 
+
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
