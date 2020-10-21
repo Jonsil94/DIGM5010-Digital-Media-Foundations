@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Group polarization
 - Allegory of the cave
 - False consensus effect
-- + AI Generated
+- "+" AI Generated
 - 
 
 ## Reading List
