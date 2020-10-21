@@ -4,6 +4,13 @@ You can use the [editor on GitHub](https://github.com/Jonsil94/DIGM5010-Digital-
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## Keywords or search terms
+- Recommender system
+- Filter_bubble
+- Group_polarization
+- Allegory_of_the_cave
+- False_consensus_effect
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
