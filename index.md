@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Group polarization
 - Allegory of the cave
 - False consensus effect
-- "+" AI Generated
+- "+ AI Generated"
 - 
 
 ## Reading List
@@ -51,6 +51,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 36. Analyzing right-wing youtube channels: Hate, violence and discrimination R Ottoni, E Cunha, G Magno, P Bernardina… - Proceedings of the 10th …, 2018 - dl.acm.org … a The Guardian's article [24], “The Alex Jones Channel, the broadcasting arm of the far-right conspiracy web- site InfoWars, was one of the most recommended channels in the database
 37. Understanding the Incel Community on YouTube K Papadamou, S Zannettou, J Blackburn… - arXiv preprint arXiv …, 2020 - arxiv.org … discus- sions filled with racism and/or misogyny. Finally, we quantify the probability that a user will encounter an Incel-related video by virtue of YouTube's
 38. YouTube and the challenge to journalism: new standards for news videos online L Peer, TB Ksiazek - Journalism studies, 2011 - Taylor & Francis News media are an institution where ritualized journalistic practices govern the production of news content. This study analyzes those practices in a new realm, online video, to assess whether this form of video journalism deviates from traditional standards. A content analysis …
+
+
+
+# Annotated Bibliography
+
+
 
 ### Markdown
 
