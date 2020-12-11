@@ -114,43 +114,63 @@ Similar to some of the previous readings, this criticizes what the meaning and p
 
 
 
+## Draft Paper
+
+**Exploring complexity: systems storytelling with simulations**
+
+**Introduction** The Internet has been integral to maintaining a small sense of normalcy during the COVID‐19 pandemic, allowing us to work, attend classes, shop, and view live performances online. During this time social media use has increased by 20-87% worldwide (Naeem et al., 2020), we have seen an increase in social media used for scaling and mobilization of social justice movements (Mundt et al., 2018) in contrast, it has also been used to promote false conspiracy theories (Naeem et al., 2020). In either case, these behaviours emerge or are accelerated as a result of the feedback loop structure of recommendation algorithms. These algorithms are designed to keep the users engaged by recommending increasingly extremely agreeable and partisan content (Hao, 2020). 
+
+**Context:** Due to the function of these recommendation systems radical behaviours emerges. For example, The New York Times article “The Making of a YouTube Radical” documents Caleb Cain’s journey into a far right-wing recommendation rabbit hole that convinced him western civilization was under threat by Muslims and Marxist. This recommendation algorithm is responsible for which is responsible for 70% of users time spent on YouTube.[]
+
+How can we study the emergence of this behaviour within the algorithmic feedback system? 
+**Purpose/Question:** My research will examine the complexities of social media networks through the lens of systems theory and the creation-as-research methodology — to deconstruct and visualize complexity associated with social media filter bubbles.
+
+**Objectives:** This creation-as-research project requires separate phases, the first phase will collect data through a web scraping application programming interface (API).  The API will scrape a social media platform for various trending subjects, the data will be stored with metadata tags such as date, time, location and analyzed for sentiment score. A network analysis will be performed on the dataset to connect similar users or comments and map the interactions between them. The data collected by the API will be used to construct an interactive multi-agent ecosystem. Each network cluster will be characterized into anthropomorphic entities with behaviours associated with their accompanying metadata, coexisting within the narrative of a small town or village. For example if a group of users cluster in a comment section, similar comments transform into a single entity that behave according to the calculated sentiment of the section, hateful comments are transformed into hateful entities that act aggressively. The installation will allow viewers to modify the rules that govern the system’s behaviour allowing the viewer to immerse themselves within the mechanics of the ecosystem. A web-based version of the work will be available online and also presented in a gallery space as a tryptic projection. Each fame is the same story told with different internal parameters, to compare the difference in what the narrative looks like per change in the algorithms rules.
+
+**Theoretical Framework:** My theoretical framework will be structured around systems theory.
+System theory described by Donella Meadows (2015) is a set of interconnecting entities connected in a way that produces its own pattern of behaviour over time (p. 11). The concept of a reinforcing feedback loop described in systems theory is akin to the algorithmic nature of recommendation systems. The more the loop works the further it drives the behaviour in a direction (Meadows, 2015, p. 155). Meadows describes balancing the feedback loop as a  stabling of the inputs and outputs in the system similar to a self sustaining ecosystem. The systems feedloop also has a concept called resilience, this is described as being the strength of the feedback loops’ parameter malleability before it breaks.
+
+**Methodology:** As a research methodology, “creation-as-research”(Chapman & Sawchuk, 2012) situated in the computational and generative art field is well-suited for this research. The creation-as-research methodology utilizes a hands-on form of theoretical engagement to generate knowledge. A more active role in the system's creation could help us better understand how it works and where we need to intervene in order to balance this ecosystem. Echoing Whitelaw’s thoughts on the purpose of generative art for complex systems “Generative art can, and must, do more than make images of complex systems; it can tinker critically with the systems themselves, then set them running: possible worlds.” (Whitelaw, 2005, p. 3). 
+
+**Similar work:** Similar work that examines recommendation algorithms observes the mechanics of the algorithm by looking at the structure of the neural network usually for optimization. Observing the neural network does not necessarily give us insight into the emergent behaviour that may rise out of the system. For example studies conducted by Gretarsson et al., verbert et al. and Vartak et al. examine algorithm systems as tools and do not examine behaviours at all. Some papers that examine impact, identify ethical challenges and scale empirically, such as Milano et al. - Recommender Systems and their Ethical Challenges and Faddoul et al. - A longitudinal analysis of YouTube’s promotion of conspiracy videos. Similar to the previously mentioned papers Algotansparancy is a web application that documents the amount of times a YouTube channel or Video is recommended, the purpose of this application is to highlight what the algorithm is unknowing promoting.
+
+**Expected Outcome:** Referencing Harris and Kamvar’s We Feel Fine as artistic precedence (Kamvar & Harris, 2011), I wish to explore datasets through an interactive installation. I hope to create an installation that allows the viewer to navigate through various levels of data, isolate and manipulate individual leverage points to identify the causes of emergent behaviours. The aesthetics and mechanics for this installation have been inspired by Cheng’s “Emissaries guide to worlding” and “Emissaries trilogy”. In this book Cheng describes strategies for “Worlding” described as “the art of conceiving, incubating, triggering and nurturing an infinite game”. The end goal of this ecosystem is to observe the impact of endless feedback loops on the characters within the system.
+
+**References** 
+
+Chapman, O. B., & Sawchuk, K. (2012). Research-Creation: Intervention, Analysis and "Family Resemblances". Canadian Journal of Communication, 37(1). doi:10.22230/cjc.2012v37n1a2489
+
+Hao, K. (2020, April 02). YouTube is experimenting with ways to make its algorithm even more addictive. Retrieved November 16, 2020, from https://www.technologyreview.com/2019/09/27/132829/youtube-algorithm-gets-more-addictive/
+
+Kamvar, S. D., & Harris, J. (2011). We feel fine and searching the emotional web. Proceedings of the Fourth ACM International Conference on Web Search and Data Mining - WSDM '11. doi:10.1145/1935826.1935854
+
+Meadows, D. H., & Wright, D. (2015). Thinking in systems: A primer. White River Junction, VT: Chelsea Green Publishing.
+
+Mundt, M., Ross, K., & Burnett, C. M. (2018). Scaling Social Movements Through Social Media: The Case of Black Lives Matter. Social Media + Society, 4(4), 205630511880791. doi:10.1177/2056305118807911
+
+Naeem, S. B., Bhatti, R., & Khan, A. (2020). An exploration of how fake news is taking over social media and putting public health at risk. Health Information & Libraries Journal. doi:10.1111/hir.12320
+
+Whitelaw, M., & whitelaw, M. (2005). System Stories and Model Worlds: A Critical Approach To Generative Art.
+
+Gretarsson, B., O'Donovan, J., Bostandjiev, S., Hall, C. and Höllerer, T. (2010), SmallWorlds: Visualizing Social Recommendations. Computer Graphics Forum, 29: 833-842. https://doi.org/10.1111/j.1467-8659.2009.01679.x
+
+Verbert, K., Parra, D., Brusilovsky, P., & Duval, E. (2013). Visualizing recommendations to support exploration, transparency and controllability. Proceedings of the 2013 International Conference on Intelligent User Interfaces - IUI '13. https://doi.org/10.1145/2449396.2449442
+
+Vartak, M., Huang, S., Siddiqui, T., Madden, S., & Parameswaran, A.G. (2017). Towards Visualization Recommendation Systems. SIGMOD Rec., 45, 34-39.
+
+Milano, Silvia and Taddeo, Mariarosaria and Floridi, Luciano, Recommender Systems and their Ethical Challenges (April 26, 2019). Available at SSRN: https://ssrn.com/abstract=3378581 or http://dx.doi.org/10.2139/ssrn.3378581
+
+Faddoul, M., Chaslot, G., & Farid, H. (2020). A Longitudinal Analysis of YouTube's Promotion of Conspiracy Videos. ArXiv, abs/2003.03318.
+
+ “YouTube Recommended Videos.” AlgoTransparency, algotransparency.org/?date=19-11-2020. 
+Cheng, Ian. Emissary's Guide To Worlding. Metis Suns, 2018, amazon.com. 
+
+Roose, Kevin. “The Making of a YouTube Radical.” The New York Times, The New York Times, 8 June 2019, www.nytimes.com/interactive/2019/06/08/technology/youtube-radical.html. 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Final Presentation
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/o9J_le6uzko=/?moveToViewport=-10854,-6744,21096,10960" frameBorder="0" scrolling="no" allowFullScreen></iframe>
 
 
 
